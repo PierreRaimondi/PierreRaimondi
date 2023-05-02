@@ -1,7 +1,7 @@
 <h1 align="center">Welcome on my profile !</h1>
 
 **I'm a third-year student at EPITA Lyon.**  
-I'm passionate about computer science and cybersecurity.
+I'm a computer science and cybersecurity enthusiast.
 
 ## Languages
 
