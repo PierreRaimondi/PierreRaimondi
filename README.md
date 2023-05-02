@@ -21,11 +21,12 @@ I'm a computer science and cybersecurity enthusiast.
 
 ## Projects
 
+- **Tiger Compiler** : compiler for the Tiger language, in C++.
 - **42sh** : command interpreter adhering to the Bash POSIX standards, in C.
 - **[La Plume Enchantée](https://lpe.pierreraimondi.fr/)** : text writing website, with writing contests. Worked on both design and development aspects of the entire site.
 - **[Cyberbullying detection on Twitter](https://github.com/PierreRaimondi/tipe-cyberbullying)** : real-time detection of potentially hateful messages on Twitter.
 
-## Web portfolio
+## Portfolio
 
 [![Website](https://img.shields.io/badge/pierreraimondi.fr-%2335495e?style=for-the-badge&logo=FirefoxBrowser&logoColor=white)](https://pierreraimondi.fr/)
 
