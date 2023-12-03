@@ -1,6 +1,6 @@
 <h1 align="center">Welcome on my profile !</h1>
 
-**I'm a third-year student at EPITA Lyon.**  
+**I'm a fourth-year student at EPITA, in the SRS major.**  
 I'm a computer science and cybersecurity enthusiast.
 
 ## Languages
